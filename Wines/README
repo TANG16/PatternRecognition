@@ -1,3 +1,5 @@
+For more information see the report: DistanceMetrics_kMkNN_NeuralNets_Report.pdf
+
 Classification of the classical Wine dataset using 
 1) nearest neighbour algorithm with various distance metrics, 
 2) the kMkNN algorithm, 
