@@ -1,0 +1,4 @@
+Classification of the classical Wine dataset using 
+nearest neighbour algorithm with various distance metrics, 
+the kMkNN algorithm, 
+and Matlab's Neural Network and Pattern Recognition Toolbox
